@@ -38,7 +38,7 @@ Steps
 
         oc adm policy add-role-to-group edit system:serviceaccounts -n mydev
 
-        oc admpolicy add-role-to-group edit system:serviceaccounts -n mystage
+        oc adm policy add-role-to-group edit system:serviceaccounts -n mystage
 
         oc adm policy add-role-to-user system:image-puller system:serviceaccounts:mystage -n mydev
 
