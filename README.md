@@ -9,7 +9,7 @@ Pre-Requisite
 
 OpenShift Pipelines provide a set of standard Custom Resource Definitions (CRDs) that act as the building blocks from which you can assemble a CI/CD pipeline for your application.
 
-![image](https://user-images.githubusercontent.com/17938503/136389347-2045a6d2-5cb3-4020-a54f-dc3ea94a984a.png)
+![image](https://user-images.githubusercontent.com/17938503/136410357-399899e4-544f-48a6-8569-f429777e24f7.png)
 
 Task
 
