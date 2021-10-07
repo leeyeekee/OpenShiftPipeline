@@ -75,15 +75,15 @@ Steps
 
 7. Create a pipeline trigger when a developer commit and push the source code changes
 
-      Add a pipeline trigger based on Git Push action
+      - Add a pipeline trigger based on Git Push action
 
-      Copy pipeline trigger URL
+      - Copy pipeline trigger URL
 
-      Create a GitHub WebHook using the pipeline trigger URL
+      - Create a GitHub WebHook using the pipeline trigger URL
 
-      Update and commit the source code changes
+      - Update and commit the source code changes
 
-      Observe the triggering of the pipeline run
+      - Observe the triggering of the pipeline run
 
 # Tutorial Demonstration Video
 
