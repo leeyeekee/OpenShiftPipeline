@@ -34,11 +34,6 @@ A Trigger captures an external event, such as a Git pull request and processes t
 Steps
 1. Deploy the OpenShift Pipeline Operator
 2. Create MyDev and MyStage project namespaces 
-  
-        oc new-project mydev
-
-        oc new-project mystage
-  
 3. Grant ServiceAccounts to the project namespaces
 
         oc adm policy add-role-to-group edit system:serviceaccounts -n mydev
