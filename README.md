@@ -70,7 +70,7 @@ Steps
 
 7. Create a pipeline trigger when a developer commit and push the source code changes
 
-      - Add a pipeline trigger based on Git Push action
+      - Add a pipeline trigger based on Git Push action (ref : https://docs.openshift.com/container-platform/4.4/pipelines/creating-applications-with-cicd-pipelines.html#adding-triggers_creating-applications-with-cicd-pipelines)
 
       - Copy pipeline trigger URL
 
