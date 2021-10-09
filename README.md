@@ -1,4 +1,4 @@
-# OpenShiftPipeline
+# OpenShift Pipeline
 This tutorial aims at showcasing the OpenShift Pipeline feature which is based on Tekton.
 
 Pre-Requisite
